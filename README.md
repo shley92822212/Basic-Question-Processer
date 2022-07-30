@@ -1,5 +1,5 @@
 # Basic-Question-Processer
-A program that is designed to answer basic questions relating to an example database of references and units
+A program that is designed to interpret and answer basic questions relating to an example database of references and units
 
 
 Execution example:
